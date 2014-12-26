@@ -1,27 +1,36 @@
 # Resources
 
+## Web Browser
+We will be working exclusively with the [Chrome web browser](https://www.google.com/chrome/) throughout this course. All assignments will be graded using Chrome, so be sure to test with it.
+
 ## Software
-### [Windows Text Editors](http://net.tutsplus.com/articles/web-roundups/22-neat-code-editors-for-windows/)
-- [Atom](https://atom.io/)
-- [jEdit](http://jedit.org/)
-- [Notepad++](http://notepad-plus-plus.org/)
-- [Notepad 2](http://www.flos-freeware.ch/notepad2.html)
+
+### Source Control
+- [GitHub for Mac](https://mac.github.com/) (Mac OS X 10.9 or later)
+- [GitHub for Windows](https://windows.github.com/) (Windows 7, 8 & 8.1)
 
 ### Mac Text Editors
 - [Atom](https://atom.io/)
 - [TextMate 2](http://blog.macromates.com/2012/textmate-2-at-github/)
 - [TextWrangler](http://barebones.com/products/textwrangler/)
 
+### Windows Text Editors
+- [Atom](https://atom.io/)
+- [jEdit](http://jedit.org/)
+- [Notepad++](http://notepad-plus-plus.org/)
+- [Notepad 2](http://www.flos-freeware.ch/notepad2.html)
+
 ## Tools
+- [Online Photo Editor](http://apps.pixlr.com/editor/)
 - [CodePen](http://codepen.io/)
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 - [CSS3 Generator](http://css3generator.com/)
 - [Color wheel | Color schemes - Adobe Kuler](https://kuler.adobe.com/create/color-wheel/)
 
 ## Books
+- [HTML5 Pocket Reference, 5th Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920029274.do)
 - Anything from [A Book Apart](http://www.abookapart.com/)
 - Students Get 50% Off [The Smashing Library](http://www.smashingmagazine.com/smashing-library-student-discount/)
-- [HTML5 Pocket Reference, 5th Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920029274.do)
 
 ## Twitter
 - [Jeffrey Zeldman (zeldman)](https://twitter.com/zeldman)

@@ -42,3 +42,11 @@ The goal of this course is to provide working experience with the full range of 
 | F | 0-64.99 |
 
 Office hours will be held at the end of each class. Other times may be scheduled upon request.
+
+## Assignments
+
+Reading and project assignments are available [in the Assignments repo](https://github.com/CAPP30370-SP15/Assignments).
+
+## Important Dates
+- Last class April 28
+- Exam date: TBD. There will not be an exam, so the final exam time-slot will be used as a help session. The final project is due by 11:30 PM the same day as the exam. Finals, like projects will be stored in your GitHub repository. Any commits made after the 11:30 PM deadline will **NOT** be counted.
