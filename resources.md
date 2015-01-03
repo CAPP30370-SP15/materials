@@ -35,6 +35,8 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 ## Books
 - [HTML5 Pocket Reference, 5th Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920029274.do)
 - Anything from [A Book Apart](http://www.abookapart.com/)
+  - [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design)
+  - [Responsible Responsive Design](http://www.abookapart.com/products/responsible-responsive-design)
 - Students Get 50% Off [The Smashing Library](http://www.smashingmagazine.com/smashing-library-student-discount/)
 
 ## Twitter
