@@ -7,5 +7,6 @@
 - **HTML (Hypertext Markup Language)**: a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.
 - **Javascript**: an object-oriented computer programming language commonly used to create interactive effects within web browsers.
 - **JPG**: is a file extension for a lossy graphics file. The JPEG file extension is used interchangeably with JPG. JPEG stands for Joint Photographic Experts Group who created the standard.
+- **Markdown**: [Markdown](http://daringfireball.net/projects/markdown/) is a plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 - **PNG (Portable Network Graphics)**: a file format for image compression that, in time, is expected to replace the Graphics Interchange Format (GIF) that is widely used on today's Internet.
 - **RWD (Responsive Web Design)**: an approach to web design aimed at crafting sites to provide an optimal viewing experience—easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices (from desktop computer monitors to mobile phones).

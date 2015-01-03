@@ -5,6 +5,8 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 
 ## Software
 
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+
 ### Source Control
 - [GitHub for Mac](https://mac.github.com/) (Mac OS X 10.9 or later)
 - [GitHub for Windows](https://windows.github.com/) (Windows 7, 8 & 8.1)
@@ -23,9 +25,12 @@ We will be working exclusively with the [Chrome web browser](https://www.google.
 ## Tools
 - [Online Photo Editor](http://apps.pixlr.com/editor/)
 - [CodePen](http://codepen.io/)
-- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 - [CSS3 Generator](http://css3generator.com/)
 - [Color wheel | Color schemes - Adobe Kuler](https://kuler.adobe.com/create/color-wheel/)
+
+## Reference
+- [Can I use...](http://caniuse.com/)
+- [GitHub flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
 ## Books
 - [HTML5 Pocket Reference, 5th Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920029274.do)
