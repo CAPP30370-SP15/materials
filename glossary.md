@@ -3,6 +3,7 @@
 - **AWS (Amazon Web Services)**: [Amazon Web Services](http://aws.amazon.com/) is a collection of remote computing services, also called web services, that make up a cloud computing platform by Amazon.com. The most central and well-known of these services are Amazon EC2 and Amazon S3.
 - **CDN (content delivery network)**: a system of distributed servers (network) that deliver webpages and other Web content to a user based on the geographic locations of the user, the origin of the webpage and a content delivery server.
 - **CSS (Cascading Style Sheets)**: a style sheet language used for describing the look and formatting of a document written in a markup language.
+- **DOM (Document Object Model)**: The [Document Object Model (DOM)](http://www.w3.org/TR/DOM-Level-2-Core/introduction.html) is an application programming interface (API) for valid HTML and well-formed XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
 - **GitHub**: [GitHub.com](https://github.com/) is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
 - **HTML (Hypertext Markup Language)**: a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.
 - **Javascript**: an object-oriented computer programming language commonly used to create interactive effects within web browsers.
