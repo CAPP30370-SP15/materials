@@ -49,4 +49,4 @@ Reading and project assignments are available [in the Assignments repo](https://
 
 ## Important Dates
 - Last class April 28
-- Exam date: TBD. There will not be an exam, so the final exam time-slot will be used as a help session. The final project is due by 11:30 PM the same day as the exam. Finals, like projects will be stored in your GitHub repository. Any commits made after the 11:30 PM deadline will **NOT** be counted.
+- Exam date: May 6, 10:30am-12:30pm. There will not be an exam The final exam time-slot will be used as a help session. The final project is due by 10:00 PM the same day as the exam. Finals, like projects will be stored in your GitHub repository. Any commits made after the 10:00 PM deadline will **NOT** be counted.
